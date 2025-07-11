@@ -1,0 +1,2 @@
+# Sparse-Identification-of-Non-linear-Dynamical-Systems
+Simulated time-series data from a 2D nonlinear oscillator and the 3D Lorenz system, with added noise.  Applied SINDy with polynomial feature libraries and sparse regression to identify governing differential equations from the data. Recovered accurate system equations and dynamics for both examples, closely matching the original simulated models.
